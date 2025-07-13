@@ -1,4 +1,6 @@
-# 数周以来，我完全沉浸在 Claude Code 中
+# 《我是如何使用Claude code的》
+
+数周以来，我完全沉浸在 Claude Code 中
 
 过去我是将代码编辑框放最大，cursor的AI agent用于辅助编程。
 
